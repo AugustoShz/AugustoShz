@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hi there! I'm Augusto Shimizu 🎮
 
-<!--
-**AugustoShz/AugustoShz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏼‍💻 I'm a computer engineering
+- 🤵🏽 Currently working as a Full-Stack developer at Kinto Brazil
+- 🌱 Working hard to improve Front-End abilities and AWS applications  
 
-Here are some ideas to get you started:
+- 📫 How to reach me: <augustohss@gmail.com>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href = "mailto:augustohss@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/augustoshz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+ <div>
+  <a href="https://github.com/AugustoShz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoShz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoShz&layout=compact&langs_count=6&theme=midnight-purple"/>
+ </div>
+
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Johen-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Johen-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Johen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Johen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Johen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="JoHen-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="JoHen-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="JoHen-Vue" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Johen-SQL" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ </div>
+
+##
+
+<div>
+  
+ ![Snake animation](https://github.com/AugustoShz/AugustoShz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
