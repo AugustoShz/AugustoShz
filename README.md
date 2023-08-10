@@ -25,13 +25,3 @@
   <img align="center" alt="JoHen-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="JoHen-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  </div>
-
-##
-
-<div>
-<!--   <a href="https://web.digitalinnovation.one/users/jo-henrique8?tab=achievements" target="_blank"><img  src="https://hermes.digitalinnovation.one/site/images/logo.png" widht:"50" target="_blank"> -->
-<!--   </a>  -->
-  
- ![Snake animation](https://github.com/AugustoShz/AugustoShz/blob/output/github-contribution-grid-snake.svg)
-
-</div>
