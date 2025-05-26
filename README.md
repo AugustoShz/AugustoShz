@@ -1,7 +1,7 @@
 ## Hi there! I'm Augusto Shimizu 🎮
 
 - 👨🏼‍💻 I'm a computer engineering
-- 🤵🏽 Currently working as a Software Engineer at Kinto Brazil
+- 🤵🏽 Currently working as a Software Engineer at Itaú Unibanco
 - 🌱 Working hard to improve Front-End abilities and AWS applications  
 
 - 📫 How to reach me: <augustohss@gmail.com>
